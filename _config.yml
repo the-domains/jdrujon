@@ -1,0 +1,28 @@
+name: jdrujon
+favicon: null
+layout_spectrum: 0.9497812569607049
+typography_spectrum: 0.13965535745956004
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.060717290034517646
+  lightness: 0.4790629104245454
+  saturation: 0.6917790479492396
+  rhythmicContrast: 0.891746575711295
+purpose: []
